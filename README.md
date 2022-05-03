@@ -8,6 +8,8 @@ You can click the Preview link to take a look at your changes.
 [![Tech Badge](https://img.shields.io/badge/C-yellowgreen?style=flat&logo=C&logoColor=white)](https://github.com/JJHeon)
 [![Tech Badge](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus&logoColor=white)](https://github.com/JJHeon)
 [![Tech Badge](https://img.shields.io/badge/CMake-yellow?style=flat&logo=cmake&logoColor=white)](https://github.com/JJHeon)
+[![Tech Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://github.com/JJHeon)
+
 
 
 ##### :laughing: Currently learning...
